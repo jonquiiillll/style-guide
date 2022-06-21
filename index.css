@@ -678,3 +678,12 @@ a {
 color: #688B55;
 transition: 0.3s;
 }
+
+.interface {
+  margin-top: 100px;
+}
+
+.corners {
+  width: 70%;
+  object-fit: contain;
+}
