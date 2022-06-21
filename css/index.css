@@ -484,6 +484,8 @@ margin-right: 20px;
  .footer {
    display: flex;
    justify-content: flex-end;
+   margin-top: 40px;
+   padding-right: 5%;
  }
  .logo_place {
    width: 431px;
@@ -677,4 +679,14 @@ a {
 .color:hover {
 color: #688B55;
 transition: 0.3s;
+}
+
+.interface {
+  margin-top: 100px;
+}
+
+.corners {
+  width: 38%;
+  padding-right: 10%;
+  object-fit: contain;
 }
